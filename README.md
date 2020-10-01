@@ -8,7 +8,7 @@
   My personal website built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
-  Built using the Gatsby template from @bchiang7, credit: [brittanychiang.com](https://brittanychiang.com).
+  Built using the Gatsby template from @bchiang7, credit: <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>.
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/confident-curie-533340/deploys" target="_blank">
