@@ -3,9 +3,9 @@ date: '2'
 title: 'Scrabble with AI'
 cover: './scrabble.png'
 github: 'https://github.com/evanSpendlove/JunkBot'
+external: 'https://octoprofile.now.sh'
 tech:
   - Java
-  - JavaFX
   - Monte Carlo Tree Search
 showInProjects: true
 ---
