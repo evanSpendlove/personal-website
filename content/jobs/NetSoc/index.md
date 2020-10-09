@@ -7,5 +7,5 @@ range: 'August - Present'
 url: 'https://netsoc.com'
 ---
 
-- Stack: Bash, Docker, NginX, Jekyll
-- Automated and containerised the updating,building and deployment of the NetSoc website using bash, docker, jekyll and nginx.
+- Technologies: Bash, Docker, NGINX, Jekyll
+- Automated and containerised the updating,building and deployment of the NetSoc website using bash, Docker, Jekyll and NGINX.

@@ -150,16 +150,24 @@ const About = () => {
             </p>
             <p>
               I spent the last summer working as a STEP intern at{' '}
-              <a href="https://www.google.com">Google</a> where I co-developed an open-source black
-              box monitoring plugin for monitoring storage system.
+              <a href="https://buildyourfuture.withgoogle.com/programs/step/">Google</a> where I
+              co-developed an open-source black box monitoring plugin for monitoring storage
+              systems.
             </p>
-
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
+          <p></p>
+          <p>
+            When I'm not coding, I like to enjoy a cup of specialty coffee (I'm a big coffee nerd).
+            I'm also really interested in Japanese language and culture. I help organise the
+            Experience Japan festival in Dublin every spring. I'm an avid reader: my latest
+            obsession is the Terry Pratchett Discworld novels. To top it off, I spend a lot of time
+            playing table-top board games. As you can tell, I spend a lot of time indoors...
+          </p>
         </StyledText>
 
         <StyledPic>

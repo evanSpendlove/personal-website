@@ -9,8 +9,8 @@ url: 'https://www.google.com'
 
 **Hermes**
 
-- Stack: Go, Protocol Buffers, Prometheus, Stackdriver, Grafana
-- Implemented, with one other intern, a black box probing plugin for Cloudprober to monitor the availability and consistency of Google Cloud Storage.
+- Technologies: Go, Protocol Buffers, Prometheus, Stackdriver, Grafana
+- Implemented a black box probing plugin for Cloudprober to monitor the availability and consistency of Google Cloud Storage.
 - Designed a thread-safe core probe structure for scaled use against multiple targets.
 - Architected and implemented metrics for integration with Prometheus and Stackdriver.
 
